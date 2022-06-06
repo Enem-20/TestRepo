@@ -1,0 +1,3 @@
+[submodule "external/SubmoduleTagTest"]
+	path = external/SubmoduleTagTest
+	url = https://github.com/Enem-20/SubmoduleTagTest.git
